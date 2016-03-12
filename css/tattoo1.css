@@ -1,0 +1,24 @@
+body{
+	color:#000000;
+	background-color:#000000;
+	font-family:"微软雅黑";
+	font-size:52pt;
+}
+#titlename{
+	text-align:center;
+	margin-left:15%;
+	margin-right:15%;
+}
+#titlename h1{
+	text-align:center;
+	background-color:#000000;
+	padding:0px 0px 4px 0px;
+	min-width:780px;
+}
+p{
+	text-align:center;
+	color:orange;
+}
+p.rowtwo{
+	color:cyan;
+}
